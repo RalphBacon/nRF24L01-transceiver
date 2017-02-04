@@ -11,7 +11,7 @@ Note that there are several good nRF24L01 libraries available out there. If you 
 
 My sketches (one for receive, one for transmit) even though both do actually transmit anyway (remember that each module will automatically acknowledge receipt of data unless you specifically switch off that capability - why would you do this?).
 
-https://github.com/RalphBacon/nRF24L01-transceiver  <--- click the Download button and choose the zip file
+https://github.com/RalphBacon/nRF24L01-transceiver  <--- click the "Clone or Download" button and choose the zip file
 
 
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please do so :)
